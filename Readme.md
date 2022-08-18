@@ -2,7 +2,7 @@
 #  Spark Integration with  Redshift and Kafka
 Spark can read and write data from anywhere.
 # Why we need Integration
-To fast data processing.
+Integration between these technologies enables significantly faster runtime due to more seamless data transfer, eliminating most frictions that would otherwise occur.
 
     
 # Extract , Transformation and Load 
