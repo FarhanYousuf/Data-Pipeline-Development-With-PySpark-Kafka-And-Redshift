@@ -1,6 +1,6 @@
 
 #  Spark Integration with  Redshift and Kafka
-Spark can read and write data from anywhere.
+Spark can read and write data from a variety of technologies. The ones utilized in this project are Redshift and Kafka, though many others can be used.
 # Why we need Integration
 Integration between these technologies enables significantly faster runtime due to more seamless data transfer, eliminating most frictions that would otherwise occur.
 
